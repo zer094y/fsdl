@@ -1,0 +1,9 @@
+iceworld.wad
+sound/csiceworld/com_go.wav
+sound/csiceworld/ct_backup.wav
+sprites/csiceworld/radio.spr
+maps/pvp_iceworld.cfg
+maps/pvp_iceworld.gsr
+maps/pvp_iceworld.gmr
+maps/pvp_iceworld_motd.txt 
+maps/aim_fuzz.bsp 

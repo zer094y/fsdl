@@ -1,0 +1,16 @@
+SNIPER ONLY
+
+
+Original map by : bobo
+Conversion and modifed by : SV BOY
+
+Special Thanks to : HelloTimber for PVP prefab system
+
+Weapons :
+1-Crowbar
+2-None
+3-None
+4-None
+5-None
+6-Sniper Rifle
+7-None

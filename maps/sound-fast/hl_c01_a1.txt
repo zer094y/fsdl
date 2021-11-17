@@ -1,0 +1,2 @@
+maps/hl_c01_a1.bsp
+startup

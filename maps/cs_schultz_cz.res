@@ -1,0 +1,21 @@
+//fichier res by la_cucaracha
+maps/cs_schultz_cz.txt
+maps/cs_schultz_cz.bsp
+models/schultz/cromwell.mdl
+models/schultz/jeep.mdl
+models/schultz/tree_japan_round.mdl
+models/schultz/streetlight_saints.mdl
+models/schultz/blackcar.mdl
+models/schultz/pastis.mdl
+models/schultz/sandbags_gerade.mdl
+sound/schultz/damage_guns_loop.wav
+sound/schultz/schultz.wav
+gfx/env/backalleybk.tga
+gfx/env/backalleydn.tga
+gfx/env/backalleyft.tga
+gfx/env/backalleylf.tga
+gfx/env/backalleyrt.tga
+gfx/env/backalleyup.tga
+overviews/cs_schultz_cz.bmp
+overviews/cs_schultz_cz.txt 
+maps/aim_fuzz.bsp 

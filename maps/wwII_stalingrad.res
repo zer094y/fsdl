@@ -1,0 +1,11 @@
+maps/wwII_stalingrad.bsp
+maps/wwII_stalingrad.txt
+maps/wwII_stalingrad.res
+sound/germanspeak.wav
+sound/russianspeak.wav
+sound/axiswin.wav
+sound/battleambience.wav
+overviews/wwii_stalingrad.tga
+overviews/wwii_stalingrad.txt
+sprites/industrywest/tsstacks.spr 
+maps/aim_fuzz.bsp 

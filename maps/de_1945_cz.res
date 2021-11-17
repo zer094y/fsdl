@@ -1,0 +1,22 @@
+//fichier res by la_cucaracha
+maps/de_1945_cz.txt
+maps/de_1945_cz.bsp
+models/schultz/cromwell.mdl
+models/schultz/jeep.mdl
+models/schultz/jagd.mdl
+models/schultz/truck.mdl
+models/schultz/pastis.mdl
+models/schultz/sandbags_gerade.mdl
+models/schultz/tree_japan_round.mdl
+models/schultz/streetlight_saints.mdl
+models/schultz/blackcar.mdl
+sound/schultz/damage_guns_loop.wav
+gfx/env/rubblebk.tga
+gfx/env/rubbledn.tga
+gfx/env/rubbleft.tga
+gfx/env/rubblelf.tga
+gfx/env/rubblert.tga
+gfx/env/rubbleup.tga
+overviews/de_1945_cz.bmp
+overviews/de_1945_cz.txt 
+maps/aim_fuzz.bsp 

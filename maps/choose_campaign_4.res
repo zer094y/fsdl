@@ -1,0 +1,15 @@
+maps/soundcache/choose_campaign_4.txt
+halflife.wad
+liquids.wad
+xeno.wad
+decals.wad
+choose_campaign_3.wad
+neilm2.wad
+models/player/pepe_hazmat/pepe_hazmat.mdl
+models/player/pepe_hazmat/pepe_hazmat.bmp
+sound/player/snekky/pepe_hazmat/normies.ogg
+models/player/terminator/terminator.mdl
+models/player/terminator/terminator.bmp
+models/player/terminator/readme.txt
+models/player/dawae/dawae.mdl
+models/player/dawae/dawae.bmp
