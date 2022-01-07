@@ -1,0 +1,14 @@
+Skelepuncher Player Model
+=========================
+Began life as a plastic dancing puppet on strings but through some wizardry has become a fiercesome fighting living skeleton!
+
+Features:
+
+-Custom idle dancing animations
+-Custom physics baked death animations
+-Use of mic makes the jaw move
+
+
+Created by TheCorp303
+
+www.the303.org
