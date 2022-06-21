@@ -1,0 +1,17 @@
+maps/k_jungletemple.bsp
+maps/k_jungletemple.res
+maps/k_jungletemple.txt
+models/ae_medbush.mdl
+models/torch_medium.mdl
+models/bush_noleaves.mdl
+models/de_jungletemple/jungleleaves.mdl
+models/de_jungletemple/jungleleaves2.mdl
+models/de_jungletemple/jungletree1.mdl
+models/de_jungletemple/jungletree3.mdl
+gfx/env/losttemplebk.tga
+gfx/env/losttempledn.tga
+gfx/env/losttempleft.tga
+gfx/env/losttemplelf.tga
+gfx/env/losttemplert.tga
+gfx/env/losttempleup.tga
+sound/ambience/birdy1.wav
