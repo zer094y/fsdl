@@ -1,0 +1,5 @@
+cxbooksa	detail/grama_a_det	4.0	4.0
+cxbooksc	detail/grama_a_det	4.0	4.0
+penhasco_b	detail/grama_a_det	4.0	4.0
+rock_grey	detail/pedra_det	3.0	3.0
+OUT_GRSS1	detail/pedra_det	3.0	3.0	
