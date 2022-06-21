@@ -1,0 +1,23 @@
+// Detail texture map file for de_dust level
+// Redone for Counter-Strike
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+
+
+MayaGrass		de_calendar/MayaGrass		6		6
+Mayawall5		de_calendar/MayaGrass		6		6
+MayaSunLight256		de_calendar/MayaGrass		6		6
+GrassRocks1		de_calendar/GrassRocks1		5		5
+Az_line			de_calendar/MayaGrass		5		5
+Az_line2		de_calendar/MayaGrass		5		5
+Az_wall5		de_calendar/MayaGrass		5		5
+azHead			de_calendar/MayaGrass		5		5
+AztecCalen		de_calendar/MayaGrass		5		5
+mayaCubeGrass		de_calendar/MayaGrass		5		5
+MayaSmallWall		de_calendar/MayaGrass		5		5
+MayaWall1		de_calendar/MayaGrass		5		5
+MayaWall3		de_calendar/MayaGrass		5		5
+MayaWall4		de_calendar/MayaGrass		5		5
+MayaWall6		de_calendar/MayaGrass		5		5
+
+
