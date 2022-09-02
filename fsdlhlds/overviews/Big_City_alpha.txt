@@ -1,0 +1,14 @@
+// overview description file for Big_City_alpha
+
+global 
+{
+	ZOOM	0.41
+	ORIGIN	0 	362.50	-137.50
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/Big_City_alpha.bmp"
+	HEIGHT	-4057
+}
