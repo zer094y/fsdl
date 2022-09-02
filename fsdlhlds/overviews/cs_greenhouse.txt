@@ -1,0 +1,14 @@
+// overview description file for cs_greenhouse.bsp
+
+global 
+{
+	ZOOM	1.91
+	ORIGIN	448 	64.63	-417
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_greenhouse.bmp"
+	HEIGHT	-417
+}

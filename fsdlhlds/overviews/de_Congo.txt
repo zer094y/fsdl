@@ -1,0 +1,16 @@
+// overview description file for de_Congo.bsp
+
+global 
+{
+	ZOOM	1.73
+	ORIGIN	320	128	-1217
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_congo.tga"
+	HEIGHT	-1217
+}
+
+ 
