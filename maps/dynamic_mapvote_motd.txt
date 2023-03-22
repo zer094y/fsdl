@@ -1,6 +1,3 @@
-Dynamic Mapvote-Map
+Dynamic Mapvote Lobby
 
-Stand on the Floor infront of a Screen to vote a Map.
-
-Credits:
-Map by CubeMath
+Stand on the floor infront of a poster to vote for a campaign.
