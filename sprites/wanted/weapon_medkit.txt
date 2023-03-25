@@ -1,0 +1,7 @@
+// Health Syringe
+
+4	// number of sprites
+weapon			640 wanted/health_syringe	0	0	170	45
+weapon_s			640 wanted/health_syringe	0	45	170	45
+ammo				640		640hud7		192	84	24	24
+ammo2				640		640hud7		168	60	24	24
