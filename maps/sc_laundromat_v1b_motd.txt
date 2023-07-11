@@ -1,0 +1,31 @@
+.__                           .___                             __   
+|  | _____   __ __  ____    __| _/______  ____   _____ _____ _/  |_ 
+|  | \__  \ |  |  \/    \  / __ |\_  __ \/  _ \ /     \\__  \\   __\
+|  |__/ __ \|  |  /   |  \/ /_/ | |  | \(  <_> )  Y Y  \/ __ \|  |  
+|____(____  /____/|___|  /\____ | |__|   \____/|__|_|  (____  /__|  
+          \/           \/      \/                    \/     \/      
+
+	sc_laundromat
+
+by:	GrandmasterJ						April 27th, 2023
+
+	It is very late and you have work in the morning. As you lay down to sleep
+you suddenly realize that you have no clean clothes for tomorrow. There is a place
+nearby where clothes can be washed all night . . .
+
+	Objectives:
+	1.	Do your laundry.
+	2.	Wait for your laundry to be done.
+
+
+
+Thank you for playing my map, I hope you like it.
+
+Changes:
+
+v1: release April 30th, 2023
+v1a: day one patch, fixing texture issues
+v1b: day two patch, fixing .res and sound issues May 1st, 2023
+
+see map page for more details:
+http://scmapdb.wikidot.com/map:laundromat
